@@ -4,6 +4,6 @@ Paolo Prandoni and Martin Vetterli, *Signal Processing for Communications*, Comm
 
 For $k \in \mathbb{Z}$, define $T_k:\mathbb{C}^\mathbb{Z} \to \mathbb{C}^\mathbb{Z}$ by
 
-$$
+```math
 (T_k f)(n) = f(n-k), \quad f \in \mathbb{C}^\mathbb{Z}, \quad n \in \mathbb{Z}.
-$$
+```
